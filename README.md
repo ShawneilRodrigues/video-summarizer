@@ -141,7 +141,7 @@ Check the terminal logs for debugging information.
 ---
 
 ## **Contributors**  
-Developed by **[Your Name]** 🚀  
+Developed by **Shawneil Rodrigues** 🚀  
 Feedback & improvements are always welcome! 🎉  
 
 ---
