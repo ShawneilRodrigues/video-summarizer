@@ -1,4 +1,4 @@
-# **Phidata Video AI Summarizer Agent** 🎥🎤🖬  
+# **Video AI Summarizer Agent** 🎥🎤🖬  
 
 Welcome to the **Phidata Video AI Summarizer Agent**! This application leverages **Google Gemini 2.0 Flash Exp**, **DuckDuckGo Search**, and **Streamlit** to analyze video content and extract meaningful insights.  
 
